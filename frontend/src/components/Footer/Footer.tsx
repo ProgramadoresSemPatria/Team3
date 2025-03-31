@@ -1,10 +1,10 @@
-import React from 'react'
+{/*import React from 'react'*/}
 import { FaUser, FaLink, FaInstagram, FaGithub } from 'react-icons/fa';
 import { FaMeta } from 'react-icons/fa6';
 
 const Footer = () => {
   return (
-    <footer role='contentinfo' className="w-full py-4" style={{ backgroundColor: 'rgba(247, 109, 2, 0.35)' }}>
+    <footer role='contentinfo' className="w-full py-4" style={{ backgroundColor: 'rgba(247, 109, 2, 0.01)' }}>
       {/* perguntar ao time o que colocar aqui */}
           <div className='container mx-auto'>
             <div className='flex flex-col md:flex-row justify-between space-y-4 md:space-y-0'>
